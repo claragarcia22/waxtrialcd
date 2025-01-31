@@ -11,5 +11,5 @@ order: '01'
 layout: qatar_item
 collection: qatar
 thumbnail: "/img/Clara_Garcia_Giveaway_2_-21.jpg"
-full: "/img/Clara_Garcia_Giveaway_2_-21.jpg"
+full: "img/Clara_Garcia_Giveaway_2_-21.jpg"
 ---
